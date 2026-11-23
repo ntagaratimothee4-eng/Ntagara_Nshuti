@@ -1,0 +1,21 @@
+.aaa{
+    display: flex;
+    gap:250px;
+    background-color: aqua;
+    padding:10px;
+    margin-bottom: 10px;
+
+}
+.bbb{
+    display: flex;
+    gap:40px;
+}
+#img{
+    width:250px;
+    height:250px;
+}
+.ccc{
+    display: flex;
+    gap:40px;
+
+}
